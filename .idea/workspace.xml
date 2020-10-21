@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3e6f048-9744-4f25-a7d5-1abf09b4833d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1izPoPuX9gDhvzFuov09LhlAhJx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3e6f048-9744-4f25-a7d5-1abf09b4833d" name="Default Changelist" comment="" />
+      <created>1602907625543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602907625543</updated>
+      <workItem from="1602907627077" duration="5378000" />
+      <workItem from="1602979969457" duration="10956000" />
+      <workItem from="1603055391515" duration="15389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="979" width="1084" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602908066979">
+      <screen x="0" y="768" width="1920" height="1080" />
+    </state>
+    <state x="418" y="979" width="1084" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.768.1920.1080/895.0.1024.768@0.768.1920.1080" timestamp="1602908066979" />
+    <state x="469" y="955" key="SettingsEditor" timestamp="1602910745346">
+      <screen x="0" y="768" width="1920" height="1080" />
+    </state>
+    <state x="469" y="955" key="SettingsEditor/0.768.1920.1080/895.0.1024.768@0.768.1920.1080" timestamp="1602910745346" />
+    <state x="624" y="637" key="run.anything.popup" timestamp="1603059575500">
+      <screen x="0" y="768" width="1920" height="1080" />
+    </state>
+    <state x="624" y="637" key="run.anything.popup/0.768.1920.1080/895.0.1024.768@0.768.1920.1080" timestamp="1603059575500" />
+  </component>
+</project>
